@@ -31,7 +31,6 @@ function Header() {
             <img
                src="https://thispersondoesnotexist.com/image"
                alt="profile"
-               srcset=""
             />
          </div>
          <div className="header-btn">
