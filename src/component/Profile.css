@@ -1,0 +1,101 @@
+.profile-container {
+   /* border: 1px solid black; */
+   width: 69%;
+   margin: 0;
+   padding: 0;
+}
+.profile-background {
+   border-radius: 10px 10px 0px 0px;
+   background-image: url('../assets/images/background.svg');
+   background-clip: border-box;
+   background-size: auto 550px;
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+   width: 100%;
+   height: 200px;
+}
+.profile-image {
+   background-image: url('../assets/images/figma.svg');
+   height: 100px;
+   width: 100px;
+   background-position: 50% 50%;
+   background-size: 60px 60px;
+   background-repeat: no-repeat;
+   background-color: white;
+   margin-top: -50px;
+   margin-left: 25px;
+   border-radius: 5px;
+   border: 1px solid rgba(128, 128, 128, 0.24);
+   position: relative;
+   z-index: 2;
+}
+.profile__info {
+   position: relative;
+   z-index: 1;
+   background-color: white;
+   padding: 70px 25px 25px 25px;
+   border-radius: 10px;
+   margin-top: -60px;
+}
+.content {
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+   margin: 15px 0px;
+}
+.profile__description{
+   font-size: 1.2rem;
+}
+.profile__keypoint {
+   color: gray;
+   font-weight: 500;
+   font-size: 1rem;
+}
+.bullet {
+   background-color: gray;
+   border-radius: 50%;
+   width: 5px;
+   height: 5px;
+   margin: 0px 10px;
+}
+.profile__highlight {
+   font-weight: 600;
+   color: #0b66c3;
+   cursor: pointer;
+}
+.profile-buttons {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 40%;
+}
+.profile__btn {
+   all: unset;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+   padding: 10px 20px;
+   border-radius: 5px;
+   cursor: pointer;
+   transition: transform 0.325s ease;
+}
+.profile__btn span {
+   margin-left: 10px;
+}
+.profile__btn:hover {
+   transform: scale(1.05);
+}
+.active {
+   background-color: #0b66c3;
+   color: white;
+}
+.outline {
+   border: 2px solid #0b66c3;
+   color: #0b66c3;
+}
+.faded {
+   background-color: #0b67c32d;
+   color: #0b66c3;
+   padding: 10px;
+}

@@ -1,0 +1,25 @@
+.tab-container {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: #ffffff;
+}
+.tab-btn {
+   cursor: pointer;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 25%;
+   padding: 15px 0px;
+   font-weight: 500;
+}
+.tab-btn span {
+   margin-left: 10px;
+   color: #777373f3;
+}
+.divider {
+   border-left: 2px solid #7c7c7c38;
+   width: 1px;
+   height: 25px;
+}

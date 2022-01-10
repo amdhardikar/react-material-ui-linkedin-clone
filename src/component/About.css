@@ -1,0 +1,38 @@
+.about-container {
+   background-color: white;
+   padding: 20px 25px;
+   margin-top: 30px;
+   border-radius: 10px;
+}
+.about__info{
+   margin-top: 20px;
+}
+.about-cards {
+   margin-top: 20px;
+   display: flex;
+   justify-content: space-between;
+}
+.about__card {
+   border: 1px solid rgba(128, 128, 128, 0.39);
+   width: 45%;
+   border-radius: 10px;
+   padding: 10px 15px 10px 15px;
+}
+.about-cards p {
+   margin: 5px 0px 5px 0px;
+   font-weight: 500;
+}
+.about-container a {
+   all: unset;
+   text-decoration: none;
+   color:  #0b66c3;
+   font-weight: 500;
+   cursor: pointer;
+}
+.card__title {
+   color: gray;
+}
+.about__link {
+   margin-top: 30px;
+   text-align: center;
+}

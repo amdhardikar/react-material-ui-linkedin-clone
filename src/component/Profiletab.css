@@ -1,0 +1,26 @@
+.profiletab-container {
+   margin-top: 30px;
+   background-color: white;
+   border-radius: 10px;
+}
+.profiletab-btngroup {
+   width: 60%;
+   padding: 0 25px;
+   display: flex;
+   justify-content: space-between;
+}
+.profiletab__btn {
+   all: unset;
+   font-size: 1rem;
+   padding: 20px 0px;
+   font-weight: 500;
+   cursor: pointer;
+}
+.profiletab-btn__active {
+   color: #08cc01;
+   border-bottom: 3px solid #08cc01;
+}
+.profiletab-btn__deactive {
+   color: black;
+   border: none;
+}
