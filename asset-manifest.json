@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-material-ui-linkedin-clone/static/css/main.b27bac60.css",
-    "main.js": "/react-material-ui-linkedin-clone/static/js/main.6bbf21ee.js",
+    "main.css": "/react-material-ui-linkedin-clone/static/css/main.4a43a279.css",
+    "main.js": "/react-material-ui-linkedin-clone/static/js/main.175909c9.js",
     "static/media/background.svg": "/react-material-ui-linkedin-clone/static/media/background.01ea2362dfb679a84c48.svg",
     "static/media/overlapstudio.svg": "/react-material-ui-linkedin-clone/static/media/overlapstudio.84ca3f172c86dead78eeb97a9e39774b.svg",
     "static/media/behance.svg": "/react-material-ui-linkedin-clone/static/media/behance.a122195929dae4a4a78ece6cb37d5d11.svg",
@@ -14,11 +14,11 @@
     "static/media/linkedin.svg": "/react-material-ui-linkedin-clone/static/media/linkedin.14ea467919a51cac775c6d20aa28e77d.svg",
     "static/media/figma.svg": "/react-material-ui-linkedin-clone/static/media/figma.72ff35026c53ba574aef.svg",
     "static/media/adobe.svg": "/react-material-ui-linkedin-clone/static/media/adobe.b8d6b2c13a621993c3474854f3185703.svg",
-    "main.b27bac60.css.map": "/react-material-ui-linkedin-clone/static/css/main.b27bac60.css.map",
-    "main.6bbf21ee.js.map": "/react-material-ui-linkedin-clone/static/js/main.6bbf21ee.js.map"
+    "main.4a43a279.css.map": "/react-material-ui-linkedin-clone/static/css/main.4a43a279.css.map",
+    "main.175909c9.js.map": "/react-material-ui-linkedin-clone/static/js/main.175909c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b27bac60.css",
-    "static/js/main.6bbf21ee.js"
+    "static/css/main.4a43a279.css",
+    "static/js/main.175909c9.js"
   ]
 }
